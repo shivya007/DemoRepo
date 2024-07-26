@@ -2,6 +2,6 @@
 This Demo Repository..
 
 # Teacher
-Shradha Khapra
+Shiv
 # Student
 Shiv Arora
